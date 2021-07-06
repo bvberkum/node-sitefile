@@ -89,7 +89,7 @@
     "stylus": "^0.54.5"
   },
   "devDependencies": {
-    "ajv": "^4.11.2",
+    "ajv": "^8.6.1",
     "bootstrap": "^3.3.7",
     "chai": "^3.5.0",
     "chai-webdriver": "^1.2.0",
