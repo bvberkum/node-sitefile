@@ -117,7 +117,7 @@
     "json-loader": "latest",
     "load-grunt-config": "latest",
     "load-grunt-tasks": "latest",
-    "mocha": "^3.2.0",
+    "mocha": "^9.0.2",
     "path": "latest",
     "pm2": "^2.3.0",
     "pmx": "^0.6.8",
